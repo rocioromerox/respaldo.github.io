@@ -1,0 +1,2 @@
+1. ¿Cómo defines una función? Yo defino a una función como un conglomerado de código que se puede reutilizar y que define procedimientos a seguir, de acuerdo a los valores que se ingresen, para llegar a un resultado o indicación. Para que la función “funcione” debemos definirla y colocar sus parámetros.
+2. ¿Hasta cuantos argumentos puedes declarar en una función? Se pueden declarar varios argumentos. Por ejemplo, estos pueden ser strings, números o incluso objetos.
